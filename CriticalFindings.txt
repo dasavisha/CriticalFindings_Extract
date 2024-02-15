@@ -1,129 +1,102 @@
-Suspected nonaccidental trauma
-Malpositioned line or tube
-Allergic reaction
-Foreign body 
-Intracranial 
-spinal
-hemorrhage
-parenchymal
-subarachnoid 
-subdural 
-epidural
-stroke
-thrombolytic
-Intracranial mass 
-midline shift 
-herniation
-hydrocephalus
-Brain herniation
-Symptomatic hydrocephalus 
+nonaccidental trauma
+malpositioned line
+malpositioned tube
+malposition of central line
+malposition of ET tube
+malposition of NG tube
+allergic reaction
+foreign body 
+intracranial hemorrhage
+spinal hemorrhage
+parenchymal hemorrhage
+subarachnoid hemorrhage
+subdural hemorrhage
+epidural hemorrhage
+nonhemorrhagic stroke
+thrombolytic stroke
+intracranial mass 
+midline shift mass
+brain herniation
+symptomatic hydrocephalus 
 malfunctioning shunt
-Depressed skull fracture
-pneumocephalus
-Arterial dissection
-Brain death 
+depressed skull fracture
+basilar skull fracture
+post-traumatic pneumocephalus
+arterial dissection
+brain death 
 spinal cord compression
 spine fracture
-Cord hemorrhage 
-infarct
-obstruction 
-epiglottis
+spine injury
+cord hemorrhage 
+cord infarct
+cord compression
+airway obstruction 
+epiglottis obstruction
 retropharyngeal abscess
 tonsillitis
 facial fracture
 pneumoperitoneum
 intestinal obstruction
-ischemia 
+intestinal ischemia 
 portal venous gas
 mesenteric venous gas
-Pseudoaneurysm 
-hemorrhage 
-post-trauma 
-GI bleed
-injury
-intra-abdominal injury
-liver
-spleen 
-pancreas 
-bowel injury
-torsion
-Testicular torsion
-Ovarian torsion
-Ectopic pregnancy
-Placental abruption
-Uterine rupture
+pseudoaneurysm 
+post-trauma hemorrhage 
+post-trauma GI bleed
+intra-abdominal organ injury
+visceral organ injury
+liver injury
+spleen injury
+pancreas injury
 kidney injury 
 ureteral injury 
 bladder injury
-Absent perfusion 
-post-op kidney
-Tension pneumothorax
-Pulmonary embolus
+post-trauma bowel injury
+testicular torsion
+ovarian torsion
+ectopic pregnancy
+placental abruption
+uterine rupture
+absent perfusion 
+absent perfusion post-op kidney
+tension pneumothorax
+pulmonary embolus
+pulmonary embolism
 unstable embolus
 extensive emboli
-Lung lesion 
+lung lesion 
 active TB
-vena cava occlusion
+superior vena cava occlusion
+superior vena cava syndrome
+SVC occlusion
 SVC syndrome
 pericardial effusion 
 tamponade
-post-traumatic hemorrhage
-Tracheal obstruction 
-obstruction 
+tracheal obstruction 
 arterial aneurysm 
 thoracic aortic aneurysm
 abdominal aortic aneurysm
 arterial occlusion
 venous occlusion 
+limb threatening arterial occlusion
+limb threatening venous occlusion
 stenosis
-Arterial dissection 
-hematoma
-dissection
 intramural hematoma
-infarction
-Acute myocardial infarction
-organ injury
-injury
-visceral organ injury
-pulmonary embolism
-Intracranial hemorrhage
-Pneumoperitoneum
-Cord compression
-Tension pneumothorax
-Active TB
-Pericardial effusion
-Necrotizing infection
-arterial aneurysm 
-leak 
-rupture
-Aortic rupture
-Ectopic pregnancy
-Cord hemorrhage/infarct
-malposition
-malposition of central line
-malposition of ET tube
-malposition of NG tube
-SVC occlusion
-SVC syndrome
-Occluded arterial bypass graft
-Airway obstruction
-Post-traumatic pneumocephalus
-intestinal obstruction
-High grade GU injury
-Ischemic bowel
+acute myocardial infarction
+necrotizing infection
+aortic rupture
+occluded arterial bypass graft
+high-grade GU injury
+ischemic bowel
 major vessel dissection
-Intracranial mass with midline shift
-Unstable spine injury
-Surgical abdomen
-Depressed skull fracture
-Basilar
-Non-spinal fracture 
-Non-spinal dislocation 
-vascular compromise
-Limb threatening 
-Absent perfusion of post-op kidney
-Child abuse
-Florid pneumatosis
-mesenteric/transplant organ thrombus
-Uterine rupture
+intracranial mass with midline shift
+surgical abdomen
+non-spinal fracture 
+non-spinal dislocation 
+dislocation with vascular compromise
+absent perfusion of post-op kidney
+child abuse
+florid pneumatosis
+mesenteric organ thrombus
+transplant organ thrombus
 cholecystitis
