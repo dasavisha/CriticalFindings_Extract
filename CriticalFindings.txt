@@ -1,0 +1,129 @@
+Suspected nonaccidental trauma
+Malpositioned line or tube
+Allergic reaction
+Foreign body 
+Intracranial 
+spinal
+hemorrhage
+parenchymal
+subarachnoid 
+subdural 
+epidural
+stroke
+thrombolytic
+Intracranial mass 
+midline shift 
+herniation
+hydrocephalus
+Brain herniation
+Symptomatic hydrocephalus 
+malfunctioning shunt
+Depressed skull fracture
+pneumocephalus
+Arterial dissection
+Brain death 
+spinal cord compression
+spine fracture
+Cord hemorrhage 
+infarct
+obstruction 
+epiglottis
+retropharyngeal abscess
+tonsillitis
+facial fracture
+pneumoperitoneum
+intestinal obstruction
+ischemia 
+portal venous gas
+mesenteric venous gas
+Pseudoaneurysm 
+hemorrhage 
+post-trauma 
+GI bleed
+injury
+intra-abdominal injury
+liver
+spleen 
+pancreas 
+bowel injury
+torsion
+Testicular torsion
+Ovarian torsion
+Ectopic pregnancy
+Placental abruption
+Uterine rupture
+kidney injury 
+ureteral injury 
+bladder injury
+Absent perfusion 
+post-op kidney
+Tension pneumothorax
+Pulmonary embolus
+unstable embolus
+extensive emboli
+Lung lesion 
+active TB
+vena cava occlusion
+SVC syndrome
+pericardial effusion 
+tamponade
+post-traumatic hemorrhage
+Tracheal obstruction 
+obstruction 
+arterial aneurysm 
+thoracic aortic aneurysm
+abdominal aortic aneurysm
+arterial occlusion
+venous occlusion 
+stenosis
+Arterial dissection 
+hematoma
+dissection
+intramural hematoma
+infarction
+Acute myocardial infarction
+organ injury
+injury
+visceral organ injury
+pulmonary embolism
+Intracranial hemorrhage
+Pneumoperitoneum
+Cord compression
+Tension pneumothorax
+Active TB
+Pericardial effusion
+Necrotizing infection
+arterial aneurysm 
+leak 
+rupture
+Aortic rupture
+Ectopic pregnancy
+Cord hemorrhage/infarct
+malposition
+malposition of central line
+malposition of ET tube
+malposition of NG tube
+SVC occlusion
+SVC syndrome
+Occluded arterial bypass graft
+Airway obstruction
+Post-traumatic pneumocephalus
+intestinal obstruction
+High grade GU injury
+Ischemic bowel
+major vessel dissection
+Intracranial mass with midline shift
+Unstable spine injury
+Surgical abdomen
+Depressed skull fracture
+Basilar
+Non-spinal fracture 
+Non-spinal dislocation 
+vascular compromise
+Limb threatening 
+Absent perfusion of post-op kidney
+Child abuse
+Florid pneumatosis
+mesenteric/transplant organ thrombus
+Uterine rupture
+cholecystitis
