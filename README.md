@@ -17,12 +17,13 @@ Step 1: Install all the required packages using the .txt file:
         
 
 Step 2: To get the Critical and Incidental Findings, change the run_model.sh file accordingly
+        Please input the following parameters: Input File Name and Output File Name (both in CSV format)
+        
         i. For a Zero-Shot setting (Default setting)
             The type '--type' parameter is set to ZS 
         ii. For a Few-Shot setting
             The type '--type' parameter is set to FS and prompts the user to input Few-Shot examples as a string.
-
-       Please input the following parameters: Input File Name and Output File Name (both in CSV format)
+       
 
 Step 3: Run the model ./run_model.sh 
         The output will be saved as a CSV file in same directory - for example "generated_responses_MISTRAL_ZS.csv" 
@@ -31,7 +32,6 @@ Step 4: Extracting the key terms from Critical Findings list.
         This uses an exact match algorithm, looking for substrings in the generated responses. 
         We provide a starting list of critical terms in the file "CriticalFindings.txt"
         The extracted key terms have been saved in CSV file, under the column 'CriticalFindingsTerms'. 
-        
         -- python keyterm_extract.py generated_responses_MISTRAL_ZS.csv extracted_keyterms_MISTRAL_ZS.csv 
         
         
