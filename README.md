@@ -21,12 +21,10 @@ Alternatively, you can also install the packages using the requirements.txt file
         
 
 Step 2: To get the Critical and Incidental Findings, change the run_model.sh file accordingly
-        Please input the following parameters: Input File Name and Output File Name (both in CSV format)
-        
-        i. For a Zero-Shot setting (Default setting)
-            The type '--type' parameter is set to ZS 
-        ii. For a Few-Shot setting
-            The type '--type' parameter is set to FS and prompts the user to input Few-Shot examples as a string.
+Please input the following parameters: Input File Name and Output File Name (both in CSV format)
+
+i. For a Zero-Shot setting (Default setting), the type '--type' parameter is set to ZS 
+ii. For a Few-Shot setting, the type '--type' parameter is set to FS and prompts the user to input Few-Shot examples as a string.
        
 
 Step 3: Run the model. The output will be saved as a CSV file in same directory - for example "generated_responses_MISTRAL_ZS.csv".
