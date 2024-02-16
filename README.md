@@ -10,9 +10,12 @@ The data we used is in the format of .CSV file with two columns - 'IMPRESSION' a
 
 To run the code:
 
-Step 1: Install all the required packages using the .txt file. Alternatively, you can also install the packages in a virtual environment with a YML file. 
+Step 1: Install all the required packages using the .txt file inside an anaconda environment. 
+                
+        pip install -r requirements.txt
         
-        pip install -r /path/to/requirements.txt
+Alternatively, you can also install the packages in a virtual environment with a YML file. 
+        
         conda env create -f environment_critfind.yml
         
 
