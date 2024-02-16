@@ -10,13 +10,14 @@ The data we used is in the format of .CSV file with two columns - 'IMPRESSION' a
 
 To run the code:
 
-Step 1: Install all the required packages using the .txt file inside an anaconda environment. 
+Step 1: Install all the required packages in a virtual environment with a YML file. 
                 
-        pip install -r requirements.txt
-        
-Alternatively, you can also install the packages in a virtual environment with a YML file. 
-        
         conda env create -f environment_critfind.yml
+        
+Alternatively, you can also install the packages using the requirements.txt file inside an anaconda environment. 
+        
+        conda create -n crit_find anaconda python=3.10
+        pip install -r requirements.txt
         
 
 Step 2: To get the Critical and Incidental Findings, change the run_model.sh file accordingly
