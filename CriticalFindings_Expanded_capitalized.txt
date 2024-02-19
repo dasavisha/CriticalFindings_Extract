@@ -1,0 +1,182 @@
+AAA
+abdominal aortic aneurysm
+ablatio placentae
+abruptio placentae
+accidental antepartum haemorrhage
+acute intestinal ischaemia due to obstruction of vasculature of intestine
+acute intestinal ischaemia with obstruction of intestinal vasculature
+acute intestinal ischemia due to obstruction of vasculature of intestine
+acute intestinal ischemia with obstruction of intestinal vasculature
+acute myocardial infarction
+airway obstruction 
+allergic reaction
+AMI
+aortic rupture
+arterial aneurysm
+arterial aneurysm 
+arterial dissection
+arterial occlusion
+arterial occlusive disease
+bladder injury
+blocked artery
+bowel obstruction
+brain death
+brain death 
+brain herniation
+brain stem herniation
+brainstem death
+child abuse
+cholecystitis
+complete stenosis
+compression of spinal cord
+cord compression
+cord hemorrhage 
+cord infarct
+depressed fracture of skull
+depressed skull fracture
+dissection of artery
+ectopic pregnancy
+EP
+epidural haemorrhage
+epidural hemorrhage
+epidural intracranial haemorrhage
+epidural intracranial hemorrhage
+exogenous material
+extradural haemorrhage
+extradural hemorrhage
+facial fracture
+FB
+foreign body
+foreign body 
+foreign material
+fracture dislocation of spinal vertebra
+fracture dislocation of spine
+fracture of skull and facial bones
+H/O: pulmonary embolus
+hepatic injury
+hepatic trauma
+herniation of brainstem
+history of pulmonary embolus
+infarction of spinal cord
+inflamed gallbladder
+injury of abdominal viscus
+injury of bladder
+injury of intra-abdominal organ
+injury of kidney
+injury of liver
+injury of pancreas
+injury of spleen
+injury of ureter
+injury to kidney
+internal injury of abdomen
+internal injury of abdominal organ
+intestinal ischaemia
+intestinal ischemia
+intestinal ischemia 
+intestinal obstruction
+intra-abdominal organ injury
+intracranial haemorrhage
+intracranial hemorrhage
+intracranial lump
+intracranial mass
+intracranial mass 
+intracranial space-occupying lesion
+intramural haematoma
+intramural hematoma
+IO
+ischaemic bowel disease
+ischaemic disease of gut
+ischemic bowel
+ischemic bowel disease
+ischemic disease of gut
+kidney injury 
+lesion of lung
+liver injury
+lung lesion 
+mass of intracranial structure
+necrotising soft tissue infection
+necrotizing infection
+necrotizing soft tissue infection
+obstruction of artery
+obstruction of intestine
+obstruction of trachea
+obstructive tracheal disease
+occlusion of artery
+occlusion of superior vena cava
+occlusion of vein
+ovarian torsion
+pancreas injury
+PE
+pericardial effusion
+pericardial effusion 
+peritoneal cavity free air
+placental abruption
+pneumoperitoneum
+PP
+premature detachment of normally implanted placenta
+premature detachment of placenta
+premature separation of placenta
+pseudoaneurysm
+pseudoaneurysm 
+pulmonary embolism
+pulmonary embolus
+renal injury
+reopening of abdomen and re-exploration of intra-abdominal operation site and surgical arrest of postoperative bleeding
+reopening of abdomen and reexploration of intra-abdominal operation site and surgical arrest of postoperative bleeding
+retropharyngeal abscess
+rupture of aortic valve cusp
+rupture of uterus
+ruptured thoracic aortic aneurysm
+SAH
+SCC
+SI
+spinal cord compression
+spinal cord compression (disorder)
+spinal cord infarct
+spinal hemorrhage
+spinal injury
+spine fracture
+spine injury
+spleen injury
+stenosis
+subarachnoid haemorrhage
+subarachnoid hemorrhage
+subarachnoid intracranial haemorrhage
+subarachnoid intracranial hemorrhage
+subdural haemorrhage
+subdural hemorrhage
+subdural intracranial haemorrhage
+subdural intracranial hemorrhage
+superior vena cava occlusion
+superior vena cava syndrome
+surgical abdomen
+tamponade
+tamponade - action
+tension pneumothorax
+testicular torsion
+thoracic aortic aneurysm
+thoracic aortic aneurysm which has ruptured
+tonsillitis
+torn aortic cusp
+torsion of ovary
+torsion of testicle
+torsion of testis
+total airway obstruction
+totally obstructed airway
+tracheal obstruction
+tracheal obstruction 
+traumatic injury of spinal cord
+traumatic injury of spinal cord and vertebral column
+traumatic injury of spine
+traumatic injury of vertebral column
+traumatic spinal cord haemorrhage
+traumatic spinal cord hemorrhage
+ureteral injury
+ureteral injury 
+ureteric injury
+uterine rupture
+UTI
+vascular insufficiency of intestine
+vascular insufficiency of the intestine
+venous occlusion
+venous occlusion 
