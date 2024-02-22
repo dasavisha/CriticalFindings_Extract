@@ -13,14 +13,12 @@ allergic reaction
 AMI
 aortic rupture
 arterial aneurysm
-arterial aneurysm 
 arterial dissection
 arterial occlusion
 arterial occlusive disease
 bladder injury
 blocked artery
 bowel obstruction
-brain death
 brain death 
 brain herniation
 brain stem herniation
@@ -47,7 +45,6 @@ extradural hemorrhage
 facial fracture
 FB
 foreign body
-foreign body 
 foreign material
 fracture dislocation of spinal vertebra
 fracture dislocation of spine
@@ -72,14 +69,12 @@ internal injury of abdomen
 internal injury of abdominal organ
 intestinal ischaemia
 intestinal ischemia
-intestinal ischemia 
 intestinal obstruction
 intra-abdominal organ injury
 intracranial haemorrhage
 intracranial hemorrhage
 intracranial lump
 intracranial mass
-intracranial mass 
 intracranial space-occupying lesion
 intramural haematoma
 intramural hematoma
@@ -108,7 +103,6 @@ ovarian torsion
 pancreas injury
 PE
 pericardial effusion
-pericardial effusion 
 peritoneal cavity free air
 placental abruption
 pneumoperitoneum
@@ -117,7 +111,6 @@ premature detachment of normally implanted placenta
 premature detachment of placenta
 premature separation of placenta
 pseudoaneurysm
-pseudoaneurysm 
 pulmonary embolism
 pulmonary embolus
 renal injury
@@ -131,7 +124,6 @@ SAH
 SCC
 SI
 spinal cord compression
-spinal cord compression (disorder)
 spinal cord infarct
 spinal hemorrhage
 spinal injury
@@ -155,7 +147,7 @@ tamponade - action
 tension pneumothorax
 testicular torsion
 thoracic aortic aneurysm
-thoracic aortic aneurysm which has ruptured
+ruptured thoracic aortic aneurysm
 tonsillitis
 torn aortic cusp
 torsion of ovary
@@ -164,7 +156,6 @@ torsion of testis
 total airway obstruction
 totally obstructed airway
 tracheal obstruction
-tracheal obstruction 
 traumatic injury of spinal cord
 traumatic injury of spinal cord and vertebral column
 traumatic injury of spine
@@ -172,7 +163,6 @@ traumatic injury of vertebral column
 traumatic spinal cord haemorrhage
 traumatic spinal cord hemorrhage
 ureteral injury
-ureteral injury 
 ureteric injury
 uterine rupture
 UTI
