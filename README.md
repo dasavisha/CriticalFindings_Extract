@@ -26,17 +26,31 @@ Please input the following parameters: Input File Name and Output File Name (bot
 i. For a Zero-Shot setting (Default setting), the type '--type' parameter is set to ZS 
 
 ii. For a Few-Shot setting, the type '--type' parameter is set to FS and prompts the user to input Few-Shot examples as a string.
+
+        >> Enter the Few-Shot Examples:
+    
+    Following is a User Input Example.
+        >> "{
+        "explanation": "Small bowel obstruction due to a closed loop obstruction is a critical finding because it is life-threatening if not treated immediately. It is characterized as new,                          because it is the noted to be present for the first time. Intestinal ischemia is a critical finding, because it is a medical emergency, needing to be acted on       
+                        immediately. It is characterized as an uncertain critical finding because the possibility is raised.",
+        "report": "Findings are consistent with small-bowel obstruction likely secondary to a closed loop obstruction. Additionally, presence of abdominal ascites, mesenteric engorgement,                       and differential enhancement of the wall raise concern for intestinal ischemia. These findings were discussed with Dr. [**Redacted Name**] on [**2107-11-21**].",
+        "new": ["small bowel obstruction","closed loop obstruction"],
+        "known/expected": [],
+        "uncertain": ["intestinal ischemia"],
+        }"
+
        
 
-Step 3: Run the model. The output will be saved as a CSV file in same directory - for example "generated_responses_MISTRAL_ZS.csv".
-
-        ./run_model.sh 
-
-Step 4: Extracting the key terms from Critical Findings list. 
+Step 3: Extracting the key terms from Critical Findings list. 
         This uses an exact match algorithm, looking for substrings in the generated responses. We provide a starting list of critical terms in the file "CriticalFindings.txt"
-        The extracted key terms have been saved in CSV file, under the column 'CriticalFindingsTerms'. 
+        The python script "keyterm_extract.py" takes the generated responses as input (E.g., here generated_responses_MISTRAL_ZS.csv) and outputs the extracted key terms in the output   
+        CSV file (E.g., here extracted_keyterms_MISTRAL_ZS.csv).
+
+Step 4: Run the model and the term extractor. 
+        The output of the MISTRAL model will be saved as a CSV file in same directory - for example "generated_responses_MISTRAL_ZS.csv".
+        The extracted key terms will be saved in the output CSV file - for example "extracted_keyterms_MISTRAL_ZS.csv", under the column 'CriticalFindingsTerms'. 
         
-        python keyterm_extract.py generated_responses_MISTRAL_ZS.csv extracted_keyterms_MISTRAL_ZS.csv 
+        ./run_model.sh 
         
         
 
