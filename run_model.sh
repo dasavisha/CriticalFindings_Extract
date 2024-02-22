@@ -3,3 +3,5 @@ python main.py \
 --dataset_name "./data_file.csv" \
 --output_file "./generated_responses_MISTRAL_ZS.csv" \
 --type "ZS"
+
+python keyterm_extract.py generated_responses_MISTRAL_ZS.csv extracted_keyterms_MISTRAL_ZS.csv
