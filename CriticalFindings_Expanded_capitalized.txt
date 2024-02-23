@@ -2,13 +2,17 @@ AAA
 abdominal aortic aneurysm
 ablatio placentae
 abruptio placentae
+absent perfusion
+absent perfusion of post-op kidney
+absent perfusion post-op kidney
 accidental antepartum haemorrhage
+active TB
 acute intestinal ischaemia due to obstruction of vasculature of intestine
 acute intestinal ischaemia with obstruction of intestinal vasculature
 acute intestinal ischemia due to obstruction of vasculature of intestine
 acute intestinal ischemia with obstruction of intestinal vasculature
 acute myocardial infarction
-airway obstruction 
+airway obstruction
 allergic reaction
 AMI
 aortic rupture
@@ -16,10 +20,11 @@ arterial aneurysm
 arterial dissection
 arterial occlusion
 arterial occlusive disease
+basilar skull fracture
 bladder injury
 blocked artery
 bowel obstruction
-brain death 
+brain death
 brain herniation
 brain stem herniation
 brainstem death
@@ -28,10 +33,11 @@ cholecystitis
 complete stenosis
 compression of spinal cord
 cord compression
-cord hemorrhage 
+cord hemorrhage
 cord infarct
 depressed fracture of skull
 depressed skull fracture
+dislocation with vascular compromise
 dissection of artery
 ectopic pregnancy
 EP
@@ -39,20 +45,23 @@ epidural haemorrhage
 epidural hemorrhage
 epidural intracranial haemorrhage
 epidural intracranial hemorrhage
+epiglottis obstruction
 exogenous material
+extensive emboli
 extradural haemorrhage
 extradural hemorrhage
 facial fracture
 FB
-foreign body
+florid pneumatosis
+foreign body 
 foreign material
 fracture dislocation of spinal vertebra
 fracture dislocation of spine
 fracture of skull and facial bones
-H/O: pulmonary embolus
 hepatic injury
 hepatic trauma
 herniation of brainstem
+high-grade GU injury
 history of pulmonary embolus
 infarction of spinal cord
 inflamed gallbladder
@@ -75,6 +84,7 @@ intracranial haemorrhage
 intracranial hemorrhage
 intracranial lump
 intracranial mass
+intracranial mass with midline shift
 intracranial space-occupying lesion
 intramural haematoma
 intramural hematoma
@@ -84,32 +94,54 @@ ischaemic disease of gut
 ischemic bowel
 ischemic bowel disease
 ischemic disease of gut
-kidney injury 
+kidney injury
 lesion of lung
+limb threatening arterial occlusion
+limb threatening venous occlusion
 liver injury
-lung lesion 
+lung lesion
+major vessel dissection
+malfunctioning shunt
+malposition of central line
+malposition of ET tube
+malposition of NG tube
+malpositioned line
+malpositioned tube
 mass of intracranial structure
+mesenteric organ thrombus
+mesenteric venous gas
+midline shift mass
 necrotising soft tissue infection
 necrotizing infection
 necrotizing soft tissue infection
+non-spinal dislocation
+non-spinal fracture
+nonaccidental trauma
+nonhemorrhagic stroke
 obstruction of artery
 obstruction of intestine
 obstruction of trachea
 obstructive tracheal disease
+occluded arterial bypass graft
 occlusion of artery
 occlusion of superior vena cava
 occlusion of vein
 ovarian torsion
 pancreas injury
+parenchymal hemorrhage
 PE
-pericardial effusion
+pericardial effusion 
 peritoneal cavity free air
 placental abruption
 pneumoperitoneum
+portal venous gas
+post-trauma bowel injury
+post-trauma GI bleed
+post-trauma hemorrhage
+post-traumatic pneumocephalus
 PP
 premature detachment of normally implanted placenta
 premature detachment of placenta
-premature separation of placenta
 pseudoaneurysm
 pulmonary embolism
 pulmonary embolus
@@ -126,7 +158,6 @@ SI
 spinal cord compression
 spinal cord infarct
 spinal hemorrhage
-spinal injury
 spine fracture
 spine injury
 spleen injury
@@ -142,12 +173,16 @@ subdural intracranial hemorrhage
 superior vena cava occlusion
 superior vena cava syndrome
 surgical abdomen
+SVC occlusion
+SVC syndrome
+symptomatic hydrocephalus
 tamponade
 tamponade - action
 tension pneumothorax
 testicular torsion
 thoracic aortic aneurysm
-ruptured thoracic aortic aneurysm
+thoracic aortic aneurysm which has ruptured
+thrombolytic stroke
 tonsillitis
 torn aortic cusp
 torsion of ovary
@@ -156,16 +191,20 @@ torsion of testis
 total airway obstruction
 totally obstructed airway
 tracheal obstruction
+tracheal obstruction 
+transplant organ thrombus
 traumatic injury of spinal cord
 traumatic injury of spinal cord and vertebral column
 traumatic injury of spine
 traumatic injury of vertebral column
 traumatic spinal cord haemorrhage
 traumatic spinal cord hemorrhage
-ureteral injury
+unstable embolus
+ureteral injury 
 ureteric injury
 uterine rupture
 UTI
 vascular insufficiency of intestine
 vascular insufficiency of the intestine
 venous occlusion
+visceral organ injury
