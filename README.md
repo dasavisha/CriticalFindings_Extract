@@ -35,7 +35,7 @@ ii. For a Few-Shot setting, the type '--prompt_type' parameter is set to FS and 
         "uncertain": ["intestinal ischemia"],
         }"
 
-    To run the extraction phase with MISTRAL model: 
+To run the extraction phase with MISTRAL model: 
     
       ./run_model_phase1.sh
 
