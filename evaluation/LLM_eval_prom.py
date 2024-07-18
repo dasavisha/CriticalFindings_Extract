@@ -10,7 +10,7 @@ from transformers import AutoTokenizer, LlamaForCausalLM
 ##this is for running evaluation for prometheus on the datasets
 ## CUDA_VISIBLE_DEVICES=2 python LLM_eval_prom.py
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
-access_token =  "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"
+access_token =  ""
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf", use_fast=True, token=access_token)
 tokenizer.pad_token_id = tokenizer.eos_token_id
 tokenizer.padding_side = "left"
