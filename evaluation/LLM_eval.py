@@ -12,7 +12,7 @@ from transformers import AutoTokenizer, LlamaForCausalLM
 # CUDA_VISIBLE_DEVICES=2 python LLM_eval.py
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
-access_token =  "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"
+access_token =  ""
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf", token=access_token)
 model = LlamaForCausalLM.from_pretrained("kaist-ai/Prometheus-13b-v1.0", device_map="auto", torch_dtype=torch.float16)
 model.to(device)
