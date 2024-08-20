@@ -50,7 +50,7 @@ def findings_extract(data_df, model_name, device, prompt_type, gen_type, respons
     ##creating the input prompts
     for report in tqdm(report_txtlist):
         # context = x
-        sentence = f"{report}\n{hyp_catCF}\n"
+        sentence = f"{report}\n{hyp_base}\n"
         if prompt_type == "ZS": #zero-shot
             print ("Prompting the model in Zero-Shot setting ...")
             message = f"{sentence}\nBased on these above definitions, find the CRITICAL findings and INCIDENTAL finding mentioned in the report. Provide a justification for each CRITICAL finding and categorize it into NEW, KNOWN/EXPECTED, and UNCERTAIN."
