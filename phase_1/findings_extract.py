@@ -58,7 +58,7 @@ def findings_extract(data_df, model_name, device, prompt_type, gen_type, respons
         
         if prompt_type == "FS": #few-shot
             print ("Prompting the model in Few-Shot setting ...")
-            message = f"{sentence}\n{type_examples}\nBased on these above definitions and provided few-shot examples, find the CRITICAL findings and INCIDENTAL finding mentioned in the report. Provide a justification for each CRITICAL finding and categorize it into NEW, KNOWN/EXPECTED, and UNCERTAIN."
+            message = f"{sentence}\n{type_examples}\nBased on these above definitions and provided few-shot examples, find the CRITICAL findings and INCIDENTAL finding mentioned in the report. Provide a justification for each CRITICAL finding."# and categorize it into NEW, KNOWN/EXPECTED, and UNCERTAIN."
 
         prompt = f"<s>[INST] {message} [/INST]"
 
